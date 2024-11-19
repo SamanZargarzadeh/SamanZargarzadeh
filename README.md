@@ -1,5 +1,9 @@
 # Saman Zargarzadeh
-I'm a creative engineer in the business world, with a multidisciplinary background in aerospace engineering and an MS in Business Analytics. Skilled in data analysis and visualization, I have a passion for using data to drive business decisions and insights. What sets me apart is my ability to think outside the box, bringing a fresh perspective to business problems. 
+👋 Hi there! I'm an IT Business Analyst, blending my background in aerospace engineering with an MS in Business Analytics to tackle business challenges from a technical perspective.
+
+📂 This GitHub is home to projects from my master’s program and personal explorations into data analysis, visualization, and problem-solving.
+
+✨ Outside of work, I love diving into creative coding projects and learning new ways to push the boundaries of data and tech. Let’s connect and collaborate! 🚀
 
 > Technical Proficiencies: Python (NumPy, Pandas), SQL (MySQL,PostgreSQL), R
 
